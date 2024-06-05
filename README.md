@@ -22,6 +22,8 @@
 
 <p align="justify">To navigate down the Yahoo Finance page, press and hold the space key on your keyboard. Continue holding it until you reach the maximum scroll. Once you've reached the bottom, download the webpage as an HTML file. Finally, upload the downloaded file to the program. The provided loop extracts data from the HTML file, including the title, author, datetime, readtime, content, tags, and link of each article. Ensure an active internet connection before executing the code. A tqdm loadbar is incorporated to enhance time management during code execution. All the extracted data will be stored in a pandas dataframe.</p>
 
+## Features
+
 ### Programming Language:
 
 - **Python**
@@ -30,3 +32,21 @@
 
 - **Jupyter Notebook**
 - **Google Colab**
+
+## Contributing
+
+<p align="justify">Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.</p>
+
+## Connect with me:
+
+<p align="justify">For any inquiries or issues, please open an issue on the GitHub repository or contact me through LinkedIn.</p>
+
+[<img align="left" alt="FouzanAkhter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="FouzanAkhter | X (formerly Twitter)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@12.1.0/icons/x.svg" />][x]
+[<img align="left" alt="FouzanAkhter | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@12.1.0/icons/github.svg" />][github]
+[<img align="left" alt="FouzanAkhter | Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@12.1.0/icons/upwork.svg" />][upwork]
+
+[linkedin]: https://www.linkedin.com/in/fouzan-akhter/
+[x]: https://github.com/fouzan-akhter
+[github]: https://github.com/fouzan-akhter
+[upwork]: https://www.upwork.com/freelancers/~019789c3a540248cea
